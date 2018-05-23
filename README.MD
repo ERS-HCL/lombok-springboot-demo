@@ -17,6 +17,8 @@ This will help in
 * User - Getters,Setters and Builder Pattern
 * ProfileService - SneakyThrows based reduced Checked Exception handling boilerplate
 * Serialization and Deserialization tests and controllers
+* Added a Parameterized Test sample using JUnitParams
+* Added a JsonUnit Test sample
 
 ## To Test
 
